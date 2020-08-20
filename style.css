@@ -1,0 +1,13 @@
+
+
+#login-form{ 
+
+padding-top:20px;
+border: 3 px solid #eeeee; 
+padding:9px 9px;
+ width:300px; 
+ border-radius:5px; 
+}
+tr.submitbutton{
+	margin: auto;
+}

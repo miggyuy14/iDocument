@@ -1,0 +1,40 @@
+ul.navtops {
+  list-style-type: none;
+
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+ul.navtops li {
+
+  display: inline-block;
+
+}
+
+ul.navtops li:last-child {
+  border-right: none;
+}
+
+ul.navtops li a{
+  display: block;
+  
+  text-align: center;
+
+  text-decoration: none;
+
+}
+ul.navtops li button{
+  display: block;
+  text-align: center;
+
+  text-decoration: none;
+
+}
+
+ul.navtops li a:hover:not(.active) {
+  background-color: #111;
+}
+
+
+
